@@ -1,0 +1,7 @@
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\HandlingExceptionsç\bin\Debug\HandlingExceptionsç.exe.config
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\HandlingExceptionsç\bin\Debug\HandlingExceptionsç.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\HandlingExceptionsç\bin\Debug\HandlingExceptionsç.pdb
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\HandlingExceptionsç\obj\Debug\HandlingExceptionsç.csprojAssemblyReference.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\HandlingExceptionsç\obj\Debug\HandlingExceptionsç.csproj.CoreCompileInputs.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\HandlingExceptionsç\obj\Debug\HandlingExceptionsç.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\HandlingExceptionsç\obj\Debug\HandlingExceptionsç.pdb

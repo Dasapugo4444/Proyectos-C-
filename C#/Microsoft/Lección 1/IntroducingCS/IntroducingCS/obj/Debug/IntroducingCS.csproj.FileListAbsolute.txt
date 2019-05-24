@@ -1,0 +1,6 @@
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\IntroducingCS\bin\Debug\IntroducingCS.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\IntroducingCS\bin\Debug\IntroducingCS.exe.config
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\IntroducingCS\obj\Debug\IntroducingCS.csproj.CoreCompileInputs.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\IntroducingCS\obj\Debug\IntroducingCS.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\IntroducingCS\obj\Debug\IntroducingCS.pdb
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\IntroducingCS\obj\Debug\IntroducingCS.csprojAssemblyReference.cache

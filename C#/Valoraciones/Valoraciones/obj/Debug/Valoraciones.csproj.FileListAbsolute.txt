@@ -1,0 +1,7 @@
+C:\Users\Santiago\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csprojAssemblyReference.cache
+C:\Users\Santiago\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\Santiago\source\repos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\Santiago\source\repos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\Santiago\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\Santiago\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb

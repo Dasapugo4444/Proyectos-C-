@@ -1,0 +1,7 @@
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ConsoleApp1\ConsoleApp1\obj\Debug\Lesson02.csprojAssemblyReference.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ConsoleApp1\ConsoleApp1\obj\Debug\Lesson02.csproj.CoreCompileInputs.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

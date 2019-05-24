@@ -1,0 +1,6 @@
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\trycatchfinally\bin\Debug\trycatchfinally.exe.config
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\trycatchfinally\bin\Debug\trycatchfinally.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\trycatchfinally\bin\Debug\trycatchfinally.pdb
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\trycatchfinally\obj\Debug\trycatchfinally.csproj.CoreCompileInputs.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\trycatchfinally\obj\Debug\trycatchfinally.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\Lesson01\trycatchfinally\obj\Debug\trycatchfinally.pdb

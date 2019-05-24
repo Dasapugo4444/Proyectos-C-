@@ -1,0 +1,7 @@
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ForEach\ForEach\bin\Debug\ForEach.exe.config
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ForEach\ForEach\bin\Debug\ForEach.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ForEach\ForEach\bin\Debug\ForEach.pdb
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ForEach\ForEach\obj\Debug\ForEach.csprojAssemblyReference.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ForEach\ForEach\obj\Debug\ForEach.exe
+D:\Desktop\Programación\Proyectos C#\Microsoft\Lección 1\IntroducingCS\ForEach\ForEach\obj\Debug\ForEach.pdb

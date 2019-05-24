@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desktop\\Programación\\Proyectos C#\\C# Youtube\\C# Youtube.csproj": {}
+  },
+  "projects": {
+    "D:\\Desktop\\Programación\\Proyectos C#\\C# Youtube\\C# Youtube.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\Programación\\Proyectos C#\\C# Youtube\\C# Youtube.csproj",
+        "projectName": "C# Youtube",
+        "projectPath": "D:\\Desktop\\Programación\\Proyectos C#\\C# Youtube\\C# Youtube.csproj",
+        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\Programación\\Proyectos C#\\C# Youtube\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
